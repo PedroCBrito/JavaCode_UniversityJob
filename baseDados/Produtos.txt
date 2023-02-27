@@ -1,0 +1,5 @@
+0,Feijao,Preto,30.0
+1,Tenis,Nike,299.99
+2022-12-17,2,Peixe,Salmao,47.5
+2022-10-10,3,Pao,Ruim,1.0
+4,Computador,Rapido e Bonito,10500.99

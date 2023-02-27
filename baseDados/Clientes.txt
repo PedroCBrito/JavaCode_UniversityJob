@@ -1,0 +1,5 @@
+Jorge,Rua Cuba,54,Bairro dos Paises,13310140,Sorocaba,Sao Paulo,2022-11-09,87954621,3
+Tutankamon,Rua Egito,784,Flores Belas,78456120,Itu,Sao Paulo,2022-11-09,87458745874,Morto Vivo,14
+Joao,Facens,10,Vila Nova,45369784,Sorocaba,Sao Paulo,2022-11-09,45789666521,10
+Joaquina,Alvarez Pinto,328,Doutor Oslavo,45662140,Rio De Janeiro,Rio de Janeiro,2022-11-09,85474566230,2
+Islavo,Transylvania,666,Terra do Nunca,65412201,Sorocaba,Sao Paulo,2022-11-09,7845874585,Silva Sauro,25
